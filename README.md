@@ -30,3 +30,12 @@ The amount of roles is slightly over 70k as shown in the table below, as explain
 ![image](https://user-images.githubusercontent.com/96096924/152712643-bdafbcf8-3372-4b1c-b184-fdadf41ffa24.png)
 
 *Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+To answer this question we added the following queries:
+
+![image](https://user-images.githubusercontent.com/96096924/152716824-b3eb2cc3-30de-499b-a42e-847dd4731bb9.png)
+
+The queries above provided the table below:
+
+![image](https://user-images.githubusercontent.com/96096924/152716649-be2c09d6-c5cf-4b02-8078-de30e9b0f5ce.png)
+
+As conclusion from this ...
