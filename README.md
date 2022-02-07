@@ -23,8 +23,9 @@ The outcome of this query is the following table:
 
 ## Summary
 I beleive the results above already covered in some part by the results presented above. Below I will try to extract from there to completed assignment and complete as needed. 
+
 *How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-The amount of roles is slightly over 70k as showhn in the table below, as explained before the major concern is the number of senior jobs that will retire.
+The amount of roles is slightly over 70k as shown in the table below, as explained before the major concern is the number of senior jobs that will retire.
 
 ![image](https://user-images.githubusercontent.com/96096924/152712643-bdafbcf8-3372-4b1c-b184-fdadf41ffa24.png)
 
