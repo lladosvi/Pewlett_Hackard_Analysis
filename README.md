@@ -13,10 +13,12 @@ The purpose of the analysis is to help Bobby and Pewlett Hackard undertsand the 
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program:
 * There are 1,549 employees elegible for the mentorship program. That is a concern as with more than 70 retiring, the thinking is that this pool is not sufficient to help with the replacement of retirees.
-* In order to finish evaluating result i felt I needed to create one more summary table using the query below:
+* In order to finish evaluating result I felt I needed to create one more summary table to show the readiness for mentornship by title so Bobby and his manager can assess the quality of the pool and what needs to be done to widen it if needed. I used the query below:
 
 ![image](https://user-images.githubusercontent.com/96096924/152712967-157f3f1a-7cf7-47da-a944-eb5f70abe97b.png)
 
+The outcome of this query is the following table:
 
+![image](https://user-images.githubusercontent.com/96096924/152713070-e533adb3-5089-4948-b47e-2681b7f8ff2b.png)
 
 ## Summary
