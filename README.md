@@ -1,6 +1,6 @@
 # Pewlett_Hackard_Analysis
 ## Overview of Analysis
-The purpose of the analysis is to help Bobby and Pewlett Hackard undertsand the number of people retiring by title and also then identify employees that are eligible to participate in the mentornship program both based on age and status in the company. Im order to complete this analysis we started with the following databases and relationships:
+The purpose of the analysis is to help Bobby and Pewlett Hackard undertsand the number of people retiring by title and also then identify employees that are eligible to participate in the mentornship program both based on age and status in the company. Im order to complete this analysis we started with the following databases and relationships included in the graph below. The code including the queries used for this analysis in in the following link: https://github.com/lladosvi/Pewlett_Hackard_Analysis/blob/main/Employee_Database_challenge.sql
 
 ![EmployeeDB](https://user-images.githubusercontent.com/96096924/152712312-3e3a7c86-db60-457c-89b4-60004003487d.png)
 
