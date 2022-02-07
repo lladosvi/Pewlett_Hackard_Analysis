@@ -22,9 +22,10 @@ The outcome of this query is the following table:
 ![image](https://user-images.githubusercontent.com/96096924/152713070-e533adb3-5089-4948-b47e-2681b7f8ff2b.png)
 
 ## Summary
-I beleive the results above already covered the answers to the below but I will try to extract from there to complete the assignment. 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+I beleive the results above already covered in some part by the results presented above. Below I will try to extract from there to completed assignment and complete as needed. 
+*How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+The amount of roles is slightly over 70k as showhn in the table below, as explained before the major concern is the number of senior jobs that will retire.
 
+![image](https://user-images.githubusercontent.com/96096924/152712643-bdafbcf8-3372-4b1c-b184-fdadf41ffa24.png)
 
-
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+*Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
