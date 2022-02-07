@@ -38,4 +38,4 @@ The queries above provided the table below:
 
 ![image](https://user-images.githubusercontent.com/96096924/152717030-606f4922-417d-452d-b802-55a1cf28c024.png)
 
-As conclusion from this is there are enough employees not retiring and not in the mentoring pool to be able to mentor the mentoring pool. In order to get here you can compare this last table with the 2 above. To get to this table we used a similar approach as deliverable 1 with the only change that we looked for active employees with birth dates between 1956 and 1964.
+As conclusion there are enough employees not retiring and not in the mentoring pool to be able to mentor the mentoring pool. In order to get here you can compare this last table with the 2 above. To get to this table we used a similar approach as deliverable 1 with the only change that we looked for active employees with birth dates between 1956 and 1964.
