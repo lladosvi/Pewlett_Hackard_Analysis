@@ -31,3 +31,10 @@ ON (e.emp_no=ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no;
 SELECT * FROM mentor_eligibility;
+--Addition Analysis for Bullet Points and Summary
+SELECT COUNT (me.emp_no), me.title
+INTO mentor_by_title
+FROM mentor_eligibility as me
+GROUP BY me.title
+ORDER BY "count" DESC ;
+SELECT * FROM mentor_by_title;
